@@ -1,4 +1,4 @@
-package sort;
+package bubblesort;
 
 
 /*//버블정렬 
