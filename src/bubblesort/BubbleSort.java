@@ -1,4 +1,5 @@
-package bubblesort;
+package src.bubblesort;
+
 
 
 /*//버블정렬 
